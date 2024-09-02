@@ -26,9 +26,6 @@
 <?php include('page-master/header.php') ?>
 
 
-
-
-
 <div class="slider" id="slider1">
     <!-- Slides -->
 
